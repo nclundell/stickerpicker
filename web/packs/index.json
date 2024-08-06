@@ -1,6 +1,7 @@
 {
   "packs": [
-    "My_wojack.json"
+    "My_wojack.json",
+    "dogenator.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
