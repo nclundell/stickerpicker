@@ -1,7 +1,9 @@
 {
   "packs": [
     "My_wojack.json",
-    "dogenator.json"
+    "dogenator.json",
+    "Kd3d918987cbb6d239cf0_by_StickerStealRobot.json",
+    "Trollface0.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
